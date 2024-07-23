@@ -19,15 +19,12 @@
 
   <h2>Running Instructions:</h2>
 
-  <ol>
-    <li>Run the script you want to use:
-      <ul>
-        <li><code>python async_main.py</code></li>
-        <li><code>python sync_main.py</code></li>
-        <li><code>python sync_pars_all.py</code></li>
-      </ul>
-    </li>
-  </ol>
+  <p>Run the script you want to use:</p>
+    <ul>
+      <li><code>python async_main.py</code></li>
+      <li><code>python sync_main.py</code></li>
+      <li><code>python sync_pars_all.py</code></li>
+    </ul>
 
   <h2>Limitations:</h2>
   
